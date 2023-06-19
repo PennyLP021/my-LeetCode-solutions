@@ -14,3 +14,4 @@ class Solution:
         answer = [set(answer0), set(answer1)]
         return answer
                 
+# set() method is used to convert any of the iterable to sequence of iterable elements with distinct elements
