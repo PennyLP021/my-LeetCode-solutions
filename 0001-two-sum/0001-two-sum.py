@@ -18,5 +18,4 @@ class Solution:
 #       return [prevMap[diff], i]
 #   prevMap[i] = n
 # return
-# I hope this works
-# Fingers crossed
+
